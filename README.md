@@ -5,4 +5,4 @@
 
 1. WebGL
   - [Source Code](https://github.com/Discardy/WebGL)
-  - Demo: [discardy.github.io/WebGL/](discardy.github.io/WebGL/)
+  - Demo: [discardy.github.io/WebGL/](https://discardy.github.io/WebGL/)
